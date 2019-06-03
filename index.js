@@ -7,7 +7,7 @@ var height = "74";
   //console.log("Expected the name to be Susan")
 //}
 
-//var name = "Susan";
+var name = "Susan";
 
 
 
